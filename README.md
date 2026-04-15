@@ -24,9 +24,6 @@ You only need:
 
 ## Installation
 
-Clone the repository:
-git clone https://github.com/yourusername/log-firewall-monitor.git
-
 Navigate to the folder:
 cd log-firewall-monitor
 
